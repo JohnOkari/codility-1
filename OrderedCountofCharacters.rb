@@ -17,6 +17,6 @@ def count_chars(input_str)
 end
 
 
-p count_chars("hello")  
-p count_chars("aabbc")  
+p count_chars("johnalist")  
+p count_chars("siwewenimimi")  
 p count_chars("")       
